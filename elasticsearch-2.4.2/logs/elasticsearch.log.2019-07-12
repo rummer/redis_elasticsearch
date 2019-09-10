@@ -1,0 +1,19 @@
+[2019-07-12 10:20:48,971][INFO ][node                     ] [Goblin Queen] version[2.4.2], pid[11544], build[161c65a/2016-11-17T11:51:03Z]
+[2019-07-12 10:20:48,978][INFO ][node                     ] [Goblin Queen] initializing ...
+[2019-07-12 10:20:50,258][INFO ][plugins                  ] [Goblin Queen] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2019-07-12 10:20:50,334][INFO ][env                      ] [Goblin Queen] using [1] data paths, mounts [[软件 (E:)]], net usable_space [57.6gb], net total_space [80gb], spins? [unknown], types [NTFS]
+[2019-07-12 10:20:50,337][INFO ][env                      ] [Goblin Queen] heap size [990.7mb], compressed ordinary object pointers [true]
+[2019-07-12 10:20:55,508][INFO ][node                     ] [Goblin Queen] initialized
+[2019-07-12 10:20:55,511][INFO ][node                     ] [Goblin Queen] starting ...
+[2019-07-12 10:20:58,687][INFO ][transport                ] [Goblin Queen] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2019-07-12 10:20:58,694][INFO ][discovery                ] [Goblin Queen] elasticsearch/JgOoTOdRQFus7YX1U6ZAhA
+[2019-07-12 10:21:02,745][INFO ][cluster.service          ] [Goblin Queen] new_master {Goblin Queen}{JgOoTOdRQFus7YX1U6ZAhA}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2019-07-12 10:21:02,936][INFO ][gateway                  ] [Goblin Queen] recovered [3] indices into cluster_state
+[2019-07-12 10:21:04,334][INFO ][cluster.routing.allocation] [Goblin Queen] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[.kibana][0]] ...]).
+[2019-07-12 10:21:06,132][INFO ][http                     ] [Goblin Queen] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2019-07-12 10:21:06,133][INFO ][node                     ] [Goblin Queen] started
+[2019-07-12 10:25:33,895][INFO ][bootstrap                ] running graceful exit on windows
+[2019-07-12 10:25:33,896][INFO ][node                     ] [Goblin Queen] stopping ...
+[2019-07-12 10:25:34,075][INFO ][node                     ] [Goblin Queen] stopped
+[2019-07-12 10:25:34,076][INFO ][node                     ] [Goblin Queen] closing ...
+[2019-07-12 10:25:34,082][INFO ][node                     ] [Goblin Queen] closed

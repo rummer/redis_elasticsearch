@@ -1,0 +1,69 @@
+[2019-07-08 16:48:16,108][INFO ][node                     ] [Dark Beast] version[2.4.2], pid[7480], build[161c65a/2016-11-17T11:51:03Z]
+[2019-07-08 16:48:16,108][INFO ][node                     ] [Dark Beast] initializing ...
+[2019-07-08 16:48:17,278][INFO ][plugins                  ] [Dark Beast] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2019-07-08 16:48:17,328][INFO ][env                      ] [Dark Beast] using [1] data paths, mounts [[软件 (E:)]], net usable_space [57.6gb], net total_space [80gb], spins? [unknown], types [NTFS]
+[2019-07-08 16:48:17,338][INFO ][env                      ] [Dark Beast] heap size [990.7mb], compressed ordinary object pointers [true]
+[2019-07-08 16:48:20,975][INFO ][node                     ] [Dark Beast] initialized
+[2019-07-08 16:48:20,975][INFO ][node                     ] [Dark Beast] starting ...
+[2019-07-08 16:48:23,425][INFO ][transport                ] [Dark Beast] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2019-07-08 16:48:23,425][INFO ][discovery                ] [Dark Beast] elasticsearch/svW5NeqaRZOuIfETiNwmZQ
+[2019-07-08 16:48:27,505][INFO ][cluster.service          ] [Dark Beast] new_master {Dark Beast}{svW5NeqaRZOuIfETiNwmZQ}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2019-07-08 16:48:27,725][INFO ][gateway                  ] [Dark Beast] recovered [3] indices into cluster_state
+[2019-07-08 16:48:29,246][INFO ][cluster.routing.allocation] [Dark Beast] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[.kibana][0]] ...]).
+[2019-07-08 16:48:30,966][INFO ][http                     ] [Dark Beast] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2019-07-08 16:48:33,266][INFO ][node                     ] [Dark Beast] started
+[2019-07-08 16:48:33,466][INFO ][node                     ] [Dark Beast] stopping ...
+[2019-07-08 16:48:33,626][INFO ][node                     ] [Dark Beast] stopped
+[2019-07-08 16:48:33,626][INFO ][node                     ] [Dark Beast] closing ...
+[2019-07-08 16:48:33,626][INFO ][node                     ] [Dark Beast] closed
+[2019-07-08 16:49:40,746][INFO ][node                     ] [Carrion] version[2.4.2], pid[4520], build[161c65a/2016-11-17T11:51:03Z]
+[2019-07-08 16:49:40,746][INFO ][node                     ] [Carrion] initializing ...
+[2019-07-08 16:49:41,476][INFO ][plugins                  ] [Carrion] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2019-07-08 16:49:41,516][INFO ][env                      ] [Carrion] using [1] data paths, mounts [[软件 (E:)]], net usable_space [57.6gb], net total_space [80gb], spins? [unknown], types [NTFS]
+[2019-07-08 16:49:41,516][INFO ][env                      ] [Carrion] heap size [990.7mb], compressed ordinary object pointers [true]
+[2019-07-08 16:49:45,169][INFO ][node                     ] [Carrion] initialized
+[2019-07-08 16:49:45,171][INFO ][node                     ] [Carrion] starting ...
+[2019-07-08 16:49:47,619][INFO ][transport                ] [Carrion] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2019-07-08 16:49:47,624][INFO ][discovery                ] [Carrion] elasticsearch/JfoRJUucQXWk3cZzdtEJEA
+[2019-07-08 16:49:51,675][INFO ][cluster.service          ] [Carrion] new_master {Carrion}{JfoRJUucQXWk3cZzdtEJEA}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2019-07-08 16:49:51,918][INFO ][gateway                  ] [Carrion] recovered [3] indices into cluster_state
+[2019-07-08 16:49:53,372][INFO ][cluster.routing.allocation] [Carrion] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[.kibana][0]] ...]).
+[2019-07-08 16:49:55,453][INFO ][http                     ] [Carrion] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2019-07-08 16:49:55,453][INFO ][node                     ] [Carrion] started
+[2019-07-08 16:53:03,844][INFO ][bootstrap                ] running graceful exit on windows
+[2019-07-08 16:53:03,844][INFO ][node                     ] [Carrion] stopping ...
+[2019-07-08 16:53:03,996][INFO ][node                     ] [Carrion] stopped
+[2019-07-08 16:53:03,996][INFO ][node                     ] [Carrion] closing ...
+[2019-07-08 16:53:04,002][INFO ][node                     ] [Carrion] closed
+[2019-07-08 16:56:00,825][INFO ][node                     ] [Vibraxas] version[2.4.2], pid[10972], build[161c65a/2016-11-17T11:51:03Z]
+[2019-07-08 16:56:00,826][INFO ][node                     ] [Vibraxas] initializing ...
+[2019-07-08 16:56:01,585][INFO ][plugins                  ] [Vibraxas] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2019-07-08 16:56:01,618][INFO ][env                      ] [Vibraxas] using [1] data paths, mounts [[软件 (E:)]], net usable_space [57.6gb], net total_space [80gb], spins? [unknown], types [NTFS]
+[2019-07-08 16:56:01,619][INFO ][env                      ] [Vibraxas] heap size [990.7mb], compressed ordinary object pointers [true]
+[2019-07-08 16:56:05,364][INFO ][node                     ] [Vibraxas] initialized
+[2019-07-08 16:56:05,365][INFO ][node                     ] [Vibraxas] starting ...
+[2019-07-08 16:56:07,987][INFO ][transport                ] [Vibraxas] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2019-07-08 16:56:07,992][INFO ][discovery                ] [Vibraxas] elasticsearch/hJgxHpfAS8qiFuuulmj9oQ
+[2019-07-08 16:56:12,043][INFO ][cluster.service          ] [Vibraxas] new_master {Vibraxas}{hJgxHpfAS8qiFuuulmj9oQ}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2019-07-08 16:56:12,224][INFO ][gateway                  ] [Vibraxas] recovered [3] indices into cluster_state
+[2019-07-08 16:56:13,387][INFO ][cluster.routing.allocation] [Vibraxas] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[.kibana][0]] ...]).
+[2019-07-08 16:56:15,217][INFO ][http                     ] [Vibraxas] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2019-07-08 16:56:15,217][INFO ][node                     ] [Vibraxas] started
+[2019-07-08 16:56:40,720][INFO ][node                     ] [Vibraxas] stopping ...
+[2019-07-08 16:56:40,864][INFO ][node                     ] [Vibraxas] stopped
+[2019-07-08 16:56:40,866][INFO ][node                     ] [Vibraxas] closing ...
+[2019-07-08 16:56:40,871][INFO ][node                     ] [Vibraxas] closed
+[2019-07-08 16:56:50,522][INFO ][node                     ] [Ymir] version[2.4.2], pid[3332], build[161c65a/2016-11-17T11:51:03Z]
+[2019-07-08 16:56:50,522][INFO ][node                     ] [Ymir] initializing ...
+[2019-07-08 16:56:51,204][INFO ][plugins                  ] [Ymir] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2019-07-08 16:56:51,244][INFO ][env                      ] [Ymir] using [1] data paths, mounts [[软件 (E:)]], net usable_space [57.6gb], net total_space [80gb], spins? [unknown], types [NTFS]
+[2019-07-08 16:56:51,244][INFO ][env                      ] [Ymir] heap size [990.7mb], compressed ordinary object pointers [true]
+[2019-07-08 16:56:55,234][INFO ][node                     ] [Ymir] initialized
+[2019-07-08 16:56:55,236][INFO ][node                     ] [Ymir] starting ...
+[2019-07-08 16:56:58,230][INFO ][transport                ] [Ymir] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2019-07-08 16:56:58,230][INFO ][discovery                ] [Ymir] elasticsearch/YqQsMgKaSG-QXp8VTOOZeA
+[2019-07-08 16:57:02,306][INFO ][cluster.service          ] [Ymir] new_master {Ymir}{YqQsMgKaSG-QXp8VTOOZeA}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2019-07-08 16:57:02,456][INFO ][gateway                  ] [Ymir] recovered [3] indices into cluster_state
+[2019-07-08 16:57:03,732][INFO ][cluster.routing.allocation] [Ymir] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[.kibana][0]] ...]).
+[2019-07-08 16:57:05,821][INFO ][http                     ] [Ymir] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2019-07-08 16:57:05,822][INFO ][node                     ] [Ymir] started
